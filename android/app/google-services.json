@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8826033631",
+    "project_id": "chat-app-7c465",
+    "storage_bucket": "chat-app-7c465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8826033631:android:bfbca522ae16c21b81a06a",
+        "android_client_info": {
+          "package_name": "com.palpayelsmallchat.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8826033631-piurgro2ngn1hj6qd0s8tvo5h0i1dacp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.palpayelsmallchat.com",
+            "certificate_hash": "9a3815be04fb1763973bb85d298823c571d06740"
+          }
+        },
+        {
+          "client_id": "8826033631-oia3gdd7k58mitqaitnvur22hsf840a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCkHJIo97yUjJMomqcjrxoQXLuUBbRu3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8826033631-oia3gdd7k58mitqaitnvur22hsf840a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
